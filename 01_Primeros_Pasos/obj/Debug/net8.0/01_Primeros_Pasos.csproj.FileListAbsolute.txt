@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/bin/Debug/net8.0/01_Primeros_Pasos
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/bin/Debug/net8.0/01_Primeros_Pasos.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/bin/Debug/net8.0/01_Primeros_Pasos.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/bin/Debug/net8.0/01_Primeros_Pasos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/bin/Debug/net8.0/01_Primeros_Pasos.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/refint/01_Primeros_Pasos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/01_Primeros_Pasos.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/01_Primeros_Pasos/obj/Debug/net8.0/ref/01_Primeros_Pasos.dll

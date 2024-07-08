@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/bin/Debug/net8.0/02_Condicionales
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/bin/Debug/net8.0/02_Condicionales.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/bin/Debug/net8.0/02_Condicionales.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/bin/Debug/net8.0/02_Condicionales.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/bin/Debug/net8.0/02_Condicionales.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/refint/02_Condicionales.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/02_Condicionales.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_Condicionales/obj/Debug/net8.0/ref/02_Condicionales.dll

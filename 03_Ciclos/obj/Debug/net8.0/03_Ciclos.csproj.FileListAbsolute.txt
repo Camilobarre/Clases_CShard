@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/bin/Debug/net8.0/03_Ciclos
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/bin/Debug/net8.0/03_Ciclos.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/bin/Debug/net8.0/03_Ciclos.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/bin/Debug/net8.0/03_Ciclos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/bin/Debug/net8.0/03_Ciclos.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/refint/03_Ciclos.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/03_Ciclos.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/03_Ciclos/obj/Debug/net8.0/ref/03_Ciclos.dll
