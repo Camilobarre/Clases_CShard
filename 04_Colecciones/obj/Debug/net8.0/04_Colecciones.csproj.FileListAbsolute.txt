@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/bin/Debug/net8.0/04_Colecciones
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/bin/Debug/net8.0/04_Colecciones.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/bin/Debug/net8.0/04_Colecciones.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/bin/Debug/net8.0/04_Colecciones.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/bin/Debug/net8.0/04_Colecciones.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/refint/04_Colecciones.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/04_Colecciones.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/04_Colecciones/obj/Debug/net8.0/ref/04_Colecciones.dll
