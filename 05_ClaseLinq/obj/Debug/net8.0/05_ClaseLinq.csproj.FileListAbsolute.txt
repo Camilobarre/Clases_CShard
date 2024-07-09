@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/bin/Debug/net8.0/05_ClaseLinq
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/bin/Debug/net8.0/05_ClaseLinq.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/bin/Debug/net8.0/05_ClaseLinq.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/bin/Debug/net8.0/05_ClaseLinq.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/bin/Debug/net8.0/05_ClaseLinq.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/refint/05_ClaseLinq.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/05_ClaseLinq.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/05_ClaseLinq/obj/Debug/net8.0/ref/05_ClaseLinq.dll
