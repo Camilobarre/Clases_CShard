@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/bin/Debug/net8.0/06_Ejercicios
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/bin/Debug/net8.0/06_Ejercicios.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/bin/Debug/net8.0/06_Ejercicios.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/bin/Debug/net8.0/06_Ejercicios.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/bin/Debug/net8.0/06_Ejercicios.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/refint/06_Ejercicios.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/06_Ejercicios.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/06_Ejercicios/obj/Debug/net8.0/ref/06_Ejercicios.dll
