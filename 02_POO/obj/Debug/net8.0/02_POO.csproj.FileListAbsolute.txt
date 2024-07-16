@@ -1,0 +1,15 @@
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/bin/Debug/net8.0/02_POO
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/bin/Debug/net8.0/02_POO.deps.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/bin/Debug/net8.0/02_POO.runtimeconfig.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/bin/Debug/net8.0/02_POO.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/bin/Debug/net8.0/02_POO.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.AssemblyInfoInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.AssemblyInfo.cs
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.csproj.CoreCompileInputs.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.sourcelink.json
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/refint/02_POO.dll
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.pdb
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/02_POO.genruntimeconfig.cache
+/home/riwip5-020/Desktop/C# & .NET - CamiloB/02_POO/obj/Debug/net8.0/ref/02_POO.dll
